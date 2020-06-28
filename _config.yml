@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Gargi Vaidya"
+title                    : "About Me"
 title_separator          : "-"
 name                     : &name "Gargi Vaidya"
 description              : &description "Graduate Student at Texas A&M University"
