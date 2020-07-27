@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Leisure"
+title: "Experience"
 permalink: /leisure/
 author_profile: true
 
