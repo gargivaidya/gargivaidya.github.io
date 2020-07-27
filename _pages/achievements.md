@@ -1,10 +1,10 @@
 ---
 layout: archive
 title: "Achievements"
-permalink: /achievements/
+permalink: _pages/achievements/
 author_profile: true
 redirect_from:
-  - /achievements
+  - /about/
 ---
 
 {% include base_path %}
