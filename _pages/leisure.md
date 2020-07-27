@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Leisure"
-permalink: /leisure
+permalink: /leisure/
 author_profile: true
 
 ---
