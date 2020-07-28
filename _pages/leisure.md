@@ -15,9 +15,5 @@ For my dance videos, click [here.](https://www.youtube.com/playlist?list=PLcnIS_
 Photo Gallery
 ===============
 
-Travel - 
-
-Photography - 
-
-Origami - 
+ 
 
