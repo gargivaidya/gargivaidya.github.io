@@ -10,7 +10,7 @@ author_profile: true
 
 Besides my academic interests, I am passionate about dance, travel, photography and origami.
 
-https://www.youtube.com/playlist?list=PLcnIS_QQxbfi6pMZFp8i_mGnmUf6J8elc
+For my dance videos, click [here.](https://www.youtube.com/playlist?list=PLcnIS_QQxbfi6pMZFp8i_mGnmUf6J8elc)
 
 Photo Gallery
 ===============
