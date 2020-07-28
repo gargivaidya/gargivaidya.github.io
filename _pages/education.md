@@ -14,18 +14,18 @@ Education
 
 Graduate Courses
 ======
-* Fall 2020
+* Fall 2020 -
 1. Artificial Intelligence
 2. Analysis of Algorithms
 + Research Project (Dr. Dileep Kalathil)
 
-* Spring 2020
+* Spring 2020 -
 1. Machine Learning
 2. Stochastic Systems
 3. Applied Convex Optimization
 + Research Project (Dr. Dileep Kalathil)
 
-* Fall 2019
+* Fall 2019 -
 1. Linear Multivariable Systems
 2. Non-linear Control Systems
 3. Linear Algebra
