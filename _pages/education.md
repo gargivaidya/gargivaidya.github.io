@@ -10,49 +10,32 @@ author_profile: true
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. in Electrical Engineering, Texas A&M University, College Station, TX, 2021 (expected)
+* B.S. in Instrumentation & Control Engineering, College of Engineering, Pune, India, 2017
 
-Work experience
+Graduate Courses
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Fall 2020
+1. Artificial Intelligence
+2. Analysis of Algorithms
++ Research Project (Dr. Dileep Kalathil)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Spring 2020
+1. Machine Learning
+2. Stochastic Systems
+3. Applied Convex Optimization
++ Research Project (Dr. Dileep Kalathil)
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Fall 2019
+1. Linear Multivariable Systems
+2. Non-linear Control Systems
+3. Linear Algebra
+
+
+
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+
+
+
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
