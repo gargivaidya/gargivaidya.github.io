@@ -9,8 +9,8 @@ author_profile: true
 
 Education
 ======
-* M.S. in Electrical Engineering, Texas A&M University, College Station, TX, 2021 (expected)
-* B.S. in Instrumentation & Control Engineering, College of Engineering, Pune, India, 2017
+* M.S. in Electrical Engineering, Texas A&M University (TAMU), College Station, TX, 2021 (expected)
+* B.Tech. in Instrumentation & Control Engineering, College of Engineering, Pune (CoEP), India, 2017
 
 Graduate Courses
 ======
