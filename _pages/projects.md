@@ -15,7 +15,7 @@ Projects
 * Hardware Based Malware Detection using Ensemble Learning
 * Study and Implementation of Advanced Control Strategies for the Performance Enhancement of Evaporator Plant
 * Wireless Data Acquisition using Arduino Uno
-* Camera Mounted Remotely Controller Car with Remote Steering Mechanism
+* Camera Mounted Remotely Controller Car with Remote Steering Mechanism (VR Racing Game)
 
   
 
