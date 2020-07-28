@@ -14,6 +14,7 @@ Skills
 * Operating Systems - Windows and Linux
 * Hardware - Arduino Uno, Raspberry Pi MCU + Camera
 
+
 Work experience
 ======
 * Graduate Research Assistant (Spring 2020 - Present)
