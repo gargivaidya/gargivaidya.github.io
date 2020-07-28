@@ -9,12 +9,10 @@ author_profile: true
 
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages - C, C++, Python, Julia, Matlab, Mathematica
+* Tools and Softwares - OpenAI Gym, Git, TensorFlow, Keras, Scikit, Numpy, Pandas, Flask, OpenCV, CVXOPT, Simulink, Gazebo, Parrot-Sphinx / Olympe
+* Operating Systems - Windows and Linux
+* Hardware - Arduino Uno, Raspberry Pi MCU + Camera
 
 Work experience
 ======
