@@ -19,8 +19,8 @@ Work experience
 ======
 * Graduate Research Assistant (Spring 2020 - Present)
 -------------------------------------------------------
-  * Texas A&M University
-  * Duties included: 
+ * Texas A&M University
+ * Duties included: 
    * Developing reinforcement learning algorithms for autonomous driving algorithms for 1/18th scale robotic AWS DeepRacer vehicle using Amazon Web Services like Sagemaker/RoboMaker.
    * Involved in building, training and deploying machine learning and reinforcement learning models for various complex robotic environments in OpenAI Gym using Mujoco or PyBullet Physics Engine.
   * Supervisor: Dr. Dileep Kalathil
