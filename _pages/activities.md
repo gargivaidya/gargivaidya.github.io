@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /experience/
+permalink: /activities/
 author_profile: true
 
 ---
