@@ -9,6 +9,7 @@ author_profile: true
 
 Projects
 ======
+* Autonomous Navigation in Unknown Environments | *ROS, Tensorflow, OpenAI Gym, OpenCV* 
 * UAV Autonomous Waypoint Tracking using Twin Delayed DDPG Algorithm, TAMU, June 2020 - Aug 2020
 * Lunar Landing in OpenAI Gym using Deep Q-Learning with Custom Policy Network, TAMU, May 2020
 * COVID-19 Diagnosis Using Convolutional Neural Networks for Chest X-Ray Image Classification, TAMU, Mar-Apr 2020
