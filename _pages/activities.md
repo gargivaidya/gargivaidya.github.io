@@ -1,6 +1,7 @@
 ---
 layout: archive
-permalink: /activities/
+title: "Activities"
+permalink: /blog/
 author_profile: true
 
 ---
