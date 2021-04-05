@@ -21,11 +21,11 @@ Work experience
 -------------------------------------------------------
  * Texas A&M University
  * Experience : 
+   * Currently working on learning-based autonomous navigation algorithms for unknown environments using a combination of optimal control and reinforcement learning for SLAM, path planning & tracking via onboard LiDAR scan & stereo vision via ROS
    * Developed reinforcement learning algorithms for autonomous driving algorithms for 1/18th scale robotic AWS DeepRacer vehicle using Amazon Web Services like Sagemaker/RoboMaker.
    * Evaluated Proximal Policy Optimization(PPO) for lane keeping & path following robotic vehicle through monocular image data
    * Designed PID and LQR waypoint tracking control for 1/18th scale robotic vehicle with A* path planning via ROS Melodic 
    * Involved in building, training and deploying machine learning and reinforcement learning models for various complex robotic environments in OpenAI Gym using Mujoco or PyBullet Physics Engine.
-   * Currently working on learning-based autonomous navigation algorithms for unknown environments using a combination of optimal control and reinforcement learning for SLAM, path planning & tracking via onboard LiDAR scan & stereo vision via ROS
   * Supervisor: Dr. Dileep Kalathil
 
 * Application Engineer (Aug 2017 - May 2019)
