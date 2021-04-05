@@ -11,6 +11,9 @@ main:
     
   - title: "Achievements"
     url: /achievements/
+    
+  - title: "Activities"
+    url: /activities/
         
   - title: "Blogs"
     url: /blog/
