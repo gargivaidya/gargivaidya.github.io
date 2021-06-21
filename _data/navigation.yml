@@ -14,10 +14,7 @@ main:
     
   - title: "Activities"
     url: /activities/
-        
-  - title: "Blogs"
-    url: /blog/
-    
+           
   - title: "Leisure"
     url: /leisure/
     
