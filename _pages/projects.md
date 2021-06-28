@@ -16,7 +16,7 @@ Projects
 * Lunar Landing in OpenAI Gym using Deep Q-Learning with Custom Policy Network, TAMU \| *RL Stable Baselines, OpenAI Gym* \|  May 2020 [code](https://github.com/gargivaidya/dqn_lunar_lander)
 * Hardware Based Malware Detection using Ensemble Learning, TAMU \| *Scikit-learn* \|  Jan- Mar 2020 [code](https://github.com/gargivaidya/realtime_side_channel_attack_detection.git)
 * Implementation of Model Predictive Control for the Performance Enhancement of Evaporator Plant, CoEP, June '16-May '17 [report](https://drive.google.com/file/d/1eSM0eiFXPtCDrZRV1ikYumvUlDiqUu6u/view?usp=sharing)
-* Camera Mounted Remotely Controller Car with Remote Steering Mechanism (VR Racing Game), Tottori University, Aug 2016 
+* Camera Mounted Remotely Controlled Car with Remote Steering Mechanism (VR Racing Game), Tottori University, Aug 2016 
 * Wireless Data Acquisition using Arduino Uno, CoEP, Apr-May 2016
 
 
