@@ -10,6 +10,7 @@ author_profile: true
 Activities & Involvement
 ======
 * Vice President - Graduate Life, *Electrical & Computer Engineering Graduate Student Association, Texas A&M University (Jan 2020 - Present)*
+[a link](https://ecegsa.wordpress.com/)
 * Independent Judge - Texas Science & Engineering Fair 2021, *Texas A&M University, Mar 2021*
 * Design Head - Regatta Managing Committee, *Boat Club, College of Engineering, Pune, Jan 2016 - Mar 2016*
 
